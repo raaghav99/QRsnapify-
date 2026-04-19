@@ -2,7 +2,7 @@
   "rewrites": [
     { "source": "/privacy", "destination": "/privacy.html" },
     { "source": "/preview", "destination": "/preview.html" },
-    { "source": "/((?!privacy|preview).*)", "destination": "/index.html" }
+{ "source": "/((?!privacy|preview).*)", "destination": "/index.html" }
   ],
   "headers": [
     {
